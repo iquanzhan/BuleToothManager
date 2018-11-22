@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">车主辅助</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="descript">快车车主助手，解放双手，只需一次设备点击，即可直接抢单</string>
+    <string name="qiangdan">快车车主抢单辅助</string>
+
+</resources>
